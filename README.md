@@ -25,4 +25,5 @@
 
 ### APÓS COMPROVAR EFICÁCIA DA NOVA BRACH, É SÓ UNIR
 - git checkout main (voltar à branch principal)
-- git merge NovaBranch
+- git merge NovaBranch (mesclando)
+- git push origin main (enviando branch main atualizada)
