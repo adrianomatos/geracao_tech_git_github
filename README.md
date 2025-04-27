@@ -15,3 +15,8 @@
 - git commit -M "Msg de Descrição do Commit"
 - git push origin main (enviar para GitHub 1ª vez)
 - git push 
+
+## AULA 2
+- git checkout nomeNovaBranch (cria NovaBranch)
+- checkout nomeNovaBranch (muda p/ NovaBranch)
+- git branch (visualiza branchs)
