@@ -20,3 +20,9 @@
 - git checkout nomeNovaBranch (cria NovaBranch)
 - checkout nomeNovaBranch (muda p/ NovaBranch)
 - git branch (visualiza branchs)
+- git add . (após alterar oq quer TESTAR)
+- git git push -u origin NovaBranch
+
+### APÓS COMPROVAR EFICÁCIA DA NOVA BRACH, É SÓ UNIR
+- git checkout main (voltar à branch principal)
+- git merge NovaBranch
