@@ -39,3 +39,4 @@
 
 - git fetch (trás branches remotas p/ local)
 - git branch (mostra todas as branches, geralmente não mostra a branch recém baixada, mas se mudar para ela vai verificar que ela veio do GitHub)
+OBS: É preciso estar dentro da branch que vai receber o código da branch que modificou o código, isso significa que vc vai "aceitar" as alterações daquela branch.
