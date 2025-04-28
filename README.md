@@ -19,6 +19,7 @@
 ## AULA 2
 - git checkout nomeNovaBranch (cria NovaBranch)
 - checkout nomeNovaBranch (muda p/ NovaBranch)
+- git checkout -b dell_novo (cria NovaBranch e muda p/ ela)
 - git branch (visualiza branchs)
 - git add . (após alterar oq quer TESTAR)
 - git git push -u origin NovaBranch
