@@ -22,7 +22,10 @@
 - git checkout -b dell_novo (cria NovaBranch e muda p/ ela)
 - git branch (visualiza branchs)
 - git add . (após alterar oq quer TESTAR)
-- git git push -u origin NovaBranch
+- git commit -M "Msg"
+- git push -u origin NovaBranch (-u define que nas próximas vezes que você executar comandos como git push ou git pull sem especificar o nome da branch, o Git saberá automaticamente a qual branch remota você está se referindo).
+- git push origin dell_novo (sem configurar o rastreamento da branch remota)
+
 
 ### APÓS COMPROVAR EFICÁCIA DA NOVA BRACH, É SÓ UNIR
 - git checkout main (voltar à branch principal)
